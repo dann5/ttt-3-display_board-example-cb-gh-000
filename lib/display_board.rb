@@ -7,4 +7,3 @@ def display_board
 "   |   |   \n"
 
 end
-
